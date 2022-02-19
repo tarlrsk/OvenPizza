@@ -10,3 +10,5 @@ Our project called OvenPizza Application or Online Pizza ordering system is a we
 <br />
 <br />
 For the administrator part, the admin can check the status of the user's order. Admin will be able to add, update and delete the menu in each user's order.
+
+# Tech Stack
