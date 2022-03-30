@@ -52,6 +52,7 @@ router.post('/', (req,res) => {
     price: data.price,
     adress: data.adress,
     status: data.status,
+    qty: data.qty
   });
   customer1.save((err, newInstance) => {
     if (err) {
