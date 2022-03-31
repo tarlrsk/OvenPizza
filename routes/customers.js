@@ -66,8 +66,10 @@ router.post('/', (req,res) => {
 
 
 router.delete("/:id", (req, res, next) => {
-  const id = req.params.id;
-  Customer.findByIdAndDelete(id, (err, doc) => {
+  const id = req.params["id"];
+  console.log("Delete this id", id);
+  console.log("Product ID to delete", id);
+  Customers.findByIdAndDelete(id, (err, doc) => {
     if (err) {
       console.error("Hey look, Error!", err);
       res.json(err);
@@ -77,20 +79,23 @@ router.delete("/:id", (req, res, next) => {
   });
 });
 
-/*
+
 router.put("/", async (req, res, next) => {
   console.debug(req.body);
   const data = req.body;
-  var customer1 = await Customer.findOne({ _id: data._id });
-  customer1.name = data.name;
-  customer1.address = data.address;
-  customer1.phone = data.phone;
-  customer1.email = data.email;
-  customer1.dob = data.dob;
+  const id = data._id;
+  delete data._id;
+  console.debug(data);
 
-  await customer1.save();
-  res.status(200).json(customer1);
+  Customers.findByIdAndUpdate(id, data, (err, doc) =>{
+    if (err) {
+      console.error("Hey look, Error!", err);
+      res.json(err);
+    } else {
+      res.status(200).json(doc);
+    }
+  });
 });
-*/
+
 
 module.exports = router;
