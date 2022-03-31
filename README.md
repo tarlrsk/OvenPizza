@@ -52,7 +52,7 @@ using MERN according to the following:
  
 -----------------------------------
     
-    Link to Github repository: https://github.com/tarlrsk/OvenPizza
+    Link to Github repository: https://github.com/tarlrsk/OvenPizza.git
     
 ----------------------------------
     
