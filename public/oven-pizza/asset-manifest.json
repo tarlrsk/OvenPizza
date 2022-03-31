@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.186a1825.css",
-    "main.js": "/static/js/main.8518a9b1.js",
+    "main.css": "/static/css/main.f493b765.css",
+    "main.js": "/static/js/main.ad21758a.js",
     "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
     "static/media/pizza_background.png": "/static/media/pizza_background.452b1b0819e65c45b602.png",
     "static/media/ovenPizzaIcon.png": "/static/media/ovenPizzaIcon.57ab49bad40f599c8ed2.png",
@@ -16,12 +16,12 @@
     "static/media/4_SpicySeafood.webp": "/static/media/4_SpicySeafood.3b8eb40fb39d867f72c8.webp",
     "static/media/1_Beacon.webp": "/static/media/1_Beacon.766fb68b245cf39aa266.webp",
     "index.html": "/index.html",
-    "main.186a1825.css.map": "/static/css/main.186a1825.css.map",
-    "main.8518a9b1.js.map": "/static/js/main.8518a9b1.js.map",
+    "main.f493b765.css.map": "/static/css/main.f493b765.css.map",
+    "main.ad21758a.js.map": "/static/js/main.ad21758a.js.map",
     "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.186a1825.css",
-    "static/js/main.8518a9b1.js"
+    "static/css/main.f493b765.css",
+    "static/js/main.ad21758a.js"
   ]
 }
