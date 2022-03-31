@@ -44,17 +44,17 @@ using MERN according to the following:
 
 ### Source Code & Repository
 
-    [Link to GitHub repository(font-end): https://github.com/tarlrsk/OvenPizza-fontend.git](https://github.com/tarlrsk/OvenPizza-fontend.git)
+    Link to GitHub repository(font-end): https://github.com/tarlrsk/OvenPizza-fontend.git
     
 -----------------------------------
     
-    [Link to Github repository(back-end): https://github.com/tarlrsk/OvenPizza-backend.git](https://github.com/tarlrsk/OvenPizza-backend.git)
+    Link to Github repository(back-end): https://github.com/tarlrsk/OvenPizza-backend.git
  
 -----------------------------------
     
-    [Link to Github repository: https://github.com/tarlrsk/OvenPizza.git](https://github.com/tarlrsk/OvenPizza.git)
+    Link to Github repository: https://github.com/tarlrsk/OvenPizza.git
     
 ----------------------------------
     
-    [Link Demo-application(Youtube): https://youtu.be/k0UdWUTDr_c](https://youtu.be/k0UdWUTDr_c)
+    Link Demo-application(Youtube): https://youtu.be/k0UdWUTDr_c
 
