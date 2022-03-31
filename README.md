@@ -45,7 +45,6 @@ using MERN according to the following:
 ### Source Code & Repository
 
     Link to GitHub repository(font-end): 
-    https://github.com/tarlrsk/OvenPizza-fontend.git
     
 -----------------------------------
     
