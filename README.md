@@ -3,7 +3,7 @@
 ### Overview
 Our full-stack web application called OvenPizza Application. It is a web-based application that enables customers to order their pizzas online for home delivery. 
 
-    Link(Deploy on Heroku): https://oven-pizza.herokuapp.com/
+    Link(Deploy on Vercel): https://oven-pizza.vercel.app/
     
 ### Contributors
 - Pancheeva Jantarasuriyakul - 6213305
